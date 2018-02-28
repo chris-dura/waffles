@@ -1,3 +1,2 @@
-console.log('waffles update');
 
-module.exports = 'waffles with syrup';
+module.exports = 'waffles';
