@@ -1,10 +1,9 @@
 {
   "name": "waffles",
   "version": "1.0.0",
-  "description": "Waffles manyrepo",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chris-dura/monorepo.git"
+    "url": "https://github.com/chris-dura/waffles.git"
   }
 }
